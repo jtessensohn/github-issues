@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(14, 17, 22);
+  color: white;
+}
+
+.container {
+  margin: 2rem;
+}
+
+.avatar img {
+  width: 250px;
+}
+
+.userCard {
+  display: flex;
+  padding: 2rem;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+
+}
+
+
+.userInfo {
+  /* display: flex; */
+}
+
+.username {
+  padding: 2rem;
+  
+}
+
+.userDetails{
+  padding: 2rem
+}

@@ -1,0 +1,40 @@
+.Issue {
+  margin: 0 2rem;
+  padding: 6px;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+
+.IssueTitle {
+  font-size: 14px;
+  font-weight: 750;
+  line-height: 1.5;
+  
+}
+
+a {
+  color: white
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.IssueUser {
+  font-size: 12px;
+  color:darkgrey;
+}
